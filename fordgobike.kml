@@ -1,0 +1,2176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <name>Ford GoBike locations</name>
+        <Placemark id="feat_2">
+            <name>
+<![CDATA[Powell St BART Station (Market St at 4th St)]]>            </name>
+            <Point id="geom_0">
+                <coordinates>-122.404904366,37.7863752686,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>
+<![CDATA[Cyril Magnin St at Ellis St]]>            </name>
+            <Point id="geom_1">
+                <coordinates>-122.408915008,37.7858806269,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name>
+<![CDATA[Powell St BART Station (Market St at 5th St)]]>            </name>
+            <Point id="geom_2">
+                <coordinates>-122.408444881,37.7838993571,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5">
+            <name>
+<![CDATA[The Embarcadero at Sansome St]]>            </name>
+            <Point id="geom_3">
+                <coordinates>-122.403234,37.80477,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6">
+            <name>
+<![CDATA[Frank H Ogawa Plaza]]>            </name>
+            <Point id="geom_4">
+                <coordinates>-122.271738052,37.8045623549,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7">
+            <name>
+<![CDATA[The Embarcadero at Vallejo St]]>            </name>
+            <Point id="geom_5">
+                <coordinates>-122.398525,37.799953,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8">
+            <name>
+<![CDATA[Broadway at Battery St]]>            </name>
+            <Point id="geom_6">
+                <coordinates>-122.400868982,37.7985721085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9">
+            <name>
+<![CDATA[Washington St at Kearny St]]>            </name>
+            <Point id="geom_7">
+                <coordinates>-122.404770255,37.7953929373,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10">
+            <name>
+<![CDATA[Davis St at Jackson St]]>            </name>
+            <Point id="geom_8">
+                <coordinates>-122.398436,37.79728,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11">
+            <name>
+<![CDATA[Pier 1/2 at The Embarcadero]]>            </name>
+            <Point id="geom_9">
+                <coordinates>-122.3945855,37.7963894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12">
+            <name>
+<![CDATA[Commercial St at Montgomery St]]>            </name>
+            <Point id="geom_10">
+                <coordinates>-122.402923,37.794231,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13">
+            <name>
+<![CDATA[Clay St at Battery St]]>            </name>
+            <Point id="geom_11">
+                <coordinates>-122.39997,37.795001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14">
+            <name>
+<![CDATA[San Francisco Ferry Building (Harry Bridges Plaza)]]>            </name>
+            <Point id="geom_12">
+                <coordinates>-122.394203,37.795392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15">
+            <name>
+<![CDATA[Steuart St at Market St]]>            </name>
+            <Point id="geom_13">
+                <coordinates>-122.39443,37.79413,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16">
+            <name>
+<![CDATA[Embarcadero BART Station (Beale St at Market St)]]>            </name>
+            <Point id="geom_14">
+                <coordinates>-122.397086,37.792251,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17">
+            <name>
+<![CDATA[Telegraph Ave at Alcatraz Ave]]>            </name>
+            <Point id="geom_15">
+                <coordinates>-122.260172367,37.8502218745,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_18">
+            <name>
+<![CDATA[Post St at Kearny St]]>            </name>
+            <Point id="geom_16">
+                <coordinates>-122.403452,37.788975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19">
+            <name>
+<![CDATA[Mechanics Monument Plaza (Market St at Bush St)]]>            </name>
+            <Point id="geom_17">
+                <coordinates>-122.399051,37.7913,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20">
+            <name>
+<![CDATA[Montgomery St BART Station (Market St at 2nd St)]]>            </name>
+            <Point id="geom_18">
+                <coordinates>-122.400811,37.7896254,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_21">
+            <name>
+<![CDATA[Howard St at Beale St]]>            </name>
+            <Point id="geom_19">
+                <coordinates>-122.394643,37.789756,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_22">
+            <name>
+<![CDATA[The Embarcadero at Steuart St]]>            </name>
+            <Point id="geom_20">
+                <coordinates>-122.391034,37.791464,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_23">
+            <name>
+<![CDATA[Spear St at Folsom St]]>            </name>
+            <Point id="geom_21">
+                <coordinates>-122.3904285,37.7896767,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_24">
+            <name>
+<![CDATA[Howard St at 2nd St]]>            </name>
+            <Point id="geom_22">
+                <coordinates>-122.398108,37.786978,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_25">
+            <name>
+<![CDATA[1st St at Folsom St]]>            </name>
+            <Point id="geom_23">
+                <coordinates>-122.39438,37.78729,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_26">
+            <name>
+<![CDATA[Beale St at Harrison St]]>            </name>
+            <Point id="geom_24">
+                <coordinates>-122.3918648,37.7880593,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_27">
+            <name>
+<![CDATA[The Embarcadero at Bryant St]]>            </name>
+            <Point id="geom_25">
+                <coordinates>-122.388097923,37.7871680147,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_28">
+            <name>
+<![CDATA[O'Farrell St at Divisadero St]]>            </name>
+            <Point id="geom_26">
+                <coordinates>-122.439445853,37.7824046019,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_29">
+            <name>
+<![CDATA[San Francisco Caltrain (Townsend St at 4th St)]]>            </name>
+            <Point id="geom_27">
+                <coordinates>-122.395192226,37.7768981562,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_30">
+            <name>
+<![CDATA[Raymond Kimbell Playground]]>            </name>
+            <Point id="geom_28">
+                <coordinates>-122.434558868,37.7838127093,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_31">
+            <name>
+<![CDATA[Jefferson Square Park]]>            </name>
+            <Point id="geom_29">
+                <coordinates>-122.4273336,37.7819895,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_32">
+            <name>
+<![CDATA[Golden Gate Ave at Hyde St]]>            </name>
+            <Point id="geom_30">
+                <coordinates>-122.4154077,37.7816495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_33">
+            <name>
+<![CDATA[Father Alfred E Boeddeker Park]]>            </name>
+            <Point id="geom_31">
+                <coordinates>-122.412408,37.7839879,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_34">
+            <name>
+<![CDATA[Cahill Park]]>            </name>
+            <Point id="geom_32">
+                <coordinates>-121.904575825,37.3291186681,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_35">
+            <name>
+<![CDATA[Folsom St at 3rd St]]>            </name>
+            <Point id="geom_33">
+                <coordinates>-122.39887,37.78383,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_36">
+            <name>
+<![CDATA[2nd St at Folsom St]]>            </name>
+            <Point id="geom_34">
+                <coordinates>-122.395935617,37.7849997283,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_37">
+            <name>
+<![CDATA[The Embarcadero at Delancey St]]>            </name>
+            <Point id="geom_35">
+                <coordinates>-122.3886256,37.7827347,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_38">
+            <name>
+<![CDATA[Scott St at Golden Gate Ave]]>            </name>
+            <Point id="geom_36">
+                <coordinates>-122.4368608,37.7789994,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_39">
+            <name>
+<![CDATA[Laguna St at McAllister St]]>            </name>
+            <Point id="geom_37">
+                <coordinates>-122.4268287,37.7792082,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_40">
+            <name>
+<![CDATA[Golden Gate Ave at Polk St]]>            </name>
+            <Point id="geom_38">
+                <coordinates>-122.41874,37.78127,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_41">
+            <name>
+<![CDATA[San Francisco City Hall (Polk St at Grove St)]]>            </name>
+            <Point id="geom_39">
+                <coordinates>-122.41823,37.77865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_42">
+            <name>
+<![CDATA[San Francisco Public Library (Grove St at Hyde St)]]>            </name>
+            <Point id="geom_40">
+                <coordinates>-122.4159292,37.7787677,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_43">
+            <name>
+<![CDATA[Civic Center/UN Plaza BART Station (Market St at McAllister St)]]>            </name>
+            <Point id="geom_41">
+                <coordinates>-122.4117382,37.7810737,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_44">
+            <name>
+<![CDATA[5th St at Howard St]]>            </name>
+            <Point id="geom_42">
+                <coordinates>-122.405127,37.781752,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_45">
+            <name>
+<![CDATA[4th St at Harrison St]]>            </name>
+            <Point id="geom_43">
+                <coordinates>-122.39974916,37.7809545996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_46">
+            <name>
+<![CDATA[2nd St at S Park St]]>            </name>
+            <Point id="geom_44">
+                <coordinates>-122.392705958,37.7824111897,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_47">
+            <name>
+<![CDATA[S Park St at 3rd St]]>            </name>
+            <Point id="geom_45">
+                <coordinates>-122.3949894,37.7807601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_48">
+            <name>
+<![CDATA[2nd St at Townsend St]]>            </name>
+            <Point id="geom_46">
+                <coordinates>-122.390288,37.780526,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_49">
+            <name>
+<![CDATA[Hayes St at Cole St]]>            </name>
+            <Point id="geom_47">
+                <coordinates>-122.4508277,37.7733394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_50">
+            <name>
+<![CDATA[McAllister St at Baker St]]>            </name>
+            <Point id="geom_48">
+                <coordinates>-122.4418376,37.7774157,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_51">
+            <name>
+<![CDATA[Grove St at Divisadero]]>            </name>
+            <Point id="geom_49">
+                <coordinates>-122.4377775,37.775946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_52">
+            <name>
+<![CDATA[Webster St at Grove St]]>            </name>
+            <Point id="geom_50">
+                <coordinates>-122.4295585,37.7770527,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_53">
+            <name>
+<![CDATA[Laguna St at Hayes St]]>            </name>
+            <Point id="geom_51">
+                <coordinates>-122.4262218,37.7763939,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_54">
+            <name>
+<![CDATA[Octavia Blvd at Fell St]]>            </name>
+            <Point id="geom_52">
+                <coordinates>-122.424559593,37.7758899677,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_55">
+            <name>
+<![CDATA[Market St at 10th St]]>            </name>
+            <Point id="geom_53">
+                <coordinates>-122.417385,37.776619,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_56">
+            <name>
+<![CDATA[S Van Ness Ave at Market St]]>            </name>
+            <Point id="geom_54">
+                <coordinates>-122.418954,37.774814,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_57">
+            <name>
+<![CDATA[8th St at Ringold St]]>            </name>
+            <Point id="geom_55">
+                <coordinates>-122.409449369,37.7745204011,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_58">
+            <name>
+<![CDATA[Howard St at 8th St]]>            </name>
+            <Point id="geom_56">
+                <coordinates>-122.4113061,37.7765126,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_59">
+            <name>
+<![CDATA[Victoria Manalo Draves Park]]>            </name>
+            <Point id="geom_57">
+                <coordinates>-122.406431884,37.7777905703,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_60">
+            <name>
+<![CDATA[Bryant St at 6th St]]>            </name>
+            <Point id="geom_58">
+                <coordinates>-122.402575007,37.7759102223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_61">
+            <name>
+<![CDATA[5th St at Brannan St]]>            </name>
+            <Point id="geom_59">
+                <coordinates>-122.3990176,37.7767539,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_62">
+            <name>
+<![CDATA[3rd St at Townsend St]]>            </name>
+            <Point id="geom_60">
+                <coordinates>-122.392740827,37.7787416115,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_63">
+            <name>
+<![CDATA[San Francisco Caltrain Station 2  (Townsend St at 4th St)]]>            </name>
+            <Point id="geom_61">
+                <coordinates>-122.3955263,37.7766392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_64">
+            <name>
+<![CDATA[Ashbury St at Haight St]]>            </name>
+            <Point id="geom_62">
+                <coordinates>-122.4469124,37.7701247,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_65">
+            <name>
+<![CDATA[Central Ave at Fell St]]>            </name>
+            <Point id="geom_63">
+                <coordinates>-122.444292605,37.7733108789,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_66">
+            <name>
+<![CDATA[Broderick St at Oak St]]>            </name>
+            <Point id="geom_64">
+                <coordinates>-122.4390777,37.7730627,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_67">
+            <name>
+<![CDATA[Page St at Scott St]]>            </name>
+            <Point id="geom_65">
+                <coordinates>-122.4356498,37.772406,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_68">
+            <name>
+<![CDATA[Pierce St at Haight St]]>            </name>
+            <Point id="geom_66">
+                <coordinates>-122.4337079,37.7717933,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_69">
+            <name>
+<![CDATA[Koshland Park]]>            </name>
+            <Point id="geom_67">
+                <coordinates>-122.4273028,37.7734597,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_70">
+            <name>
+<![CDATA[Market St at Franklin St]]>            </name>
+            <Point id="geom_68">
+                <coordinates>-122.4208333,37.7739934,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_71">
+            <name>
+<![CDATA[McCoppin St at Valencia St]]>            </name>
+            <Point id="geom_69">
+                <coordinates>-122.422423214,37.7716624622,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_72">
+            <name>
+<![CDATA[11th St at Natoma St]]>            </name>
+            <Point id="geom_70">
+                <coordinates>-122.4160402,37.7735069,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_73">
+            <name>
+<![CDATA[Folsom St at 9th St]]>            </name>
+            <Point id="geom_71">
+                <coordinates>-122.4116467,37.7737172,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_74">
+            <name>
+<![CDATA[7th St at Brannan St]]>            </name>
+            <Point id="geom_72">
+                <coordinates>-122.4036725,37.7734919,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_75">
+            <name>
+<![CDATA[Townsend St at 5th St]]>            </name>
+            <Point id="geom_73">
+                <coordinates>-122.39738,37.7753058,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_76">
+            <name>
+<![CDATA[Berry St at 4th St]]>            </name>
+            <Point id="geom_74">
+                <coordinates>-122.39317,37.77588,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_77">
+            <name>
+<![CDATA[Mission Creek Park]]>            </name>
+            <Point id="geom_75">
+                <coordinates>-122.395371,37.7740557,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_78">
+            <name>
+<![CDATA[Terry A Francois Blvd at 3rd St]]>            </name>
+            <Point id="geom_76">
+                <coordinates>-122.389471,37.7763265,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_79">
+            <name>
+<![CDATA[Duboce Park]]>            </name>
+            <Point id="geom_77">
+                <coordinates>-122.4338119,37.7692005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_80">
+            <name>
+<![CDATA[Church St at Duboce Ave]]>            </name>
+            <Point id="geom_78">
+                <coordinates>-122.4291557,37.7700831,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_81">
+            <name>
+<![CDATA[Market St at Dolores St]]>            </name>
+            <Point id="geom_79">
+                <coordinates>-122.4268256,37.7693053,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_82">
+            <name>
+<![CDATA[13th St at Folsom St]]>            </name>
+            <Point id="geom_80">
+                <coordinates>-122.415674,37.769757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_83">
+            <name>
+<![CDATA[11th St at Bryant St]]>            </name>
+            <Point id="geom_81">
+                <coordinates>-122.4117258,37.7700298,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_84">
+            <name>
+<![CDATA[Division St at Potrero Ave]]>            </name>
+            <Point id="geom_82">
+                <coordinates>-122.407645583,37.7692178615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_85">
+            <name>
+<![CDATA[Townsend St at 7th St]]>            </name>
+            <Point id="geom_83">
+                <coordinates>-122.402717,37.771058,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_86">
+            <name>
+<![CDATA[Berry St at King St]]>            </name>
+            <Point id="geom_84">
+                <coordinates>-122.399271,37.7711047,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_87">
+            <name>
+<![CDATA[Mission Bay Kids Park]]>            </name>
+            <Point id="geom_85">
+                <coordinates>-122.39287734,37.7718341961,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_88">
+            <name>
+<![CDATA[4th St at Mission Bay Blvd S]]>            </name>
+            <Point id="geom_86">
+                <coordinates>-122.3911984,37.7704074,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_89">
+            <name>
+<![CDATA[Terry A Francois Blvd at Mission Bay Blvd S]]>            </name>
+            <Point id="geom_87">
+                <coordinates>-122.386509,37.77075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_90">
+            <name>
+<![CDATA[Sanchez St at 15th St]]>            </name>
+            <Point id="geom_88">
+                <coordinates>-122.4310597,37.7662185,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_91">
+            <name>
+<![CDATA[Dolores St at 15th St]]>            </name>
+            <Point id="geom_89">
+                <coordinates>-122.4266136,37.7662102,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_92">
+            <name>
+<![CDATA[14th St at Mission St]]>            </name>
+            <Point id="geom_90">
+                <coordinates>-122.4201102,37.7682646,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_93">
+            <name>
+<![CDATA[Valencia St at 16th St]]>            </name>
+            <Point id="geom_91">
+                <coordinates>-122.4218661,37.765052,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_94">
+            <name>
+<![CDATA[Folsom St at 15th St]]>            </name>
+            <Point id="geom_92">
+                <coordinates>-122.4154425,37.7670373,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_95">
+            <name>
+<![CDATA[Bryant St at 15th St]]>            </name>
+            <Point id="geom_93">
+                <coordinates>-122.410662,37.7671004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_96">
+            <name>
+<![CDATA[San Bruno Ave at 16th St]]>            </name>
+            <Point id="geom_94">
+                <coordinates>-122.4064821,37.7659864,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_97">
+            <name>
+<![CDATA[Irwin St at 8th St]]>            </name>
+            <Point id="geom_95">
+                <coordinates>-122.3995794,37.7668828,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_98">
+            <name>
+<![CDATA[Mission Bay (Gene Friend Way at Owens St)]]>            </name>
+            <Point id="geom_96">
+                <coordinates>-122.39481926,37.7685542222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_99">
+            <name>
+<![CDATA[Mission Bay (Gene Friend Way at 3rd St)]]>            </name>
+            <Point id="geom_97">
+                <coordinates>-122.3895976,37.7689018,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_100">
+            <name>
+<![CDATA[16th St at Prosper St]]>            </name>
+            <Point id="geom_98">
+                <coordinates>-122.4318042,37.764285,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_101">
+            <name>
+<![CDATA[Sanchez St at 17th St]]>            </name>
+            <Point id="geom_99">
+                <coordinates>-122.4306746,37.7632417,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_102">
+            <name>
+<![CDATA[17th St at Dolores St]]>            </name>
+            <Point id="geom_100">
+                <coordinates>-122.4264968,37.7630152,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_103">
+            <name>
+<![CDATA[16th St Mission BART]]>            </name>
+            <Point id="geom_101">
+                <coordinates>-122.4200546,37.76484348,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_104">
+            <name>
+<![CDATA[17th St at Valencia St]]>            </name>
+            <Point id="geom_102">
+                <coordinates>-122.4219039,37.7633158,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_105">
+            <name>
+<![CDATA[17th & Folsom Street Park (17th St at Folsom St)]]>            </name>
+            <Point id="geom_103">
+                <coordinates>-122.4152042,37.7637085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_106">
+            <name>
+<![CDATA[Harrison St at 17th St]]>            </name>
+            <Point id="geom_104">
+                <coordinates>-122.4130036,37.7638471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_107">
+            <name>
+<![CDATA[Franklin Square]]>            </name>
+            <Point id="geom_105">
+                <coordinates>-122.410345,37.764555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_108">
+            <name>
+<![CDATA[Rhode Island St at 17th St]]>            </name>
+            <Point id="geom_106">
+                <coordinates>-122.4025701,37.7644783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_109">
+            <name>
+<![CDATA[Jackson Playground]]>            </name>
+            <Point id="geom_107">
+                <coordinates>-122.3987734,37.7650259,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_110">
+            <name>
+<![CDATA[Mississippi St at 17th St]]>            </name>
+            <Point id="geom_108">
+                <coordinates>-122.3947713,37.7648022,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_111">
+            <name>
+<![CDATA[Illinois St at Mariposa St]]>            </name>
+            <Point id="geom_109">
+                <coordinates>-122.3879467,37.7644948,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_112">
+            <name>
+<![CDATA[Eureka Valley Recreation Center]]>            </name>
+            <Point id="geom_110">
+                <coordinates>-122.4369431,37.7591769,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_113">
+            <name>
+<![CDATA[18th St at Noe St]]>            </name>
+            <Point id="geom_111">
+                <coordinates>-122.4326417,37.7610471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_114">
+            <name>
+<![CDATA[Mission Dolores Park]]>            </name>
+            <Point id="geom_112">
+                <coordinates>-122.4264353,37.7614205,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_115">
+            <name>
+<![CDATA[Mission Playground]]>            </name>
+            <Point id="geom_113">
+                <coordinates>-122.4213392,37.7592103,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_116">
+            <name>
+<![CDATA[19th St at Mission St]]>            </name>
+            <Point id="geom_114">
+                <coordinates>-122.418892,37.760299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_117">
+            <name>
+<![CDATA[Folsom St at 19th St]]>            </name>
+            <Point id="geom_115">
+                <coordinates>-122.4148171,37.7605936,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_118">
+            <name>
+<![CDATA[19th St at Florida St]]>            </name>
+            <Point id="geom_116">
+                <coordinates>-122.410807,37.7604469,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_119">
+            <name>
+<![CDATA[20th St at Bryant St]]>            </name>
+            <Point id="geom_117">
+                <coordinates>-122.409851,37.7592005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_120">
+            <name>
+<![CDATA[Esprit Park]]>            </name>
+            <Point id="geom_118">
+                <coordinates>-122.3906477,37.7616343,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_121">
+            <name>
+<![CDATA[Valencia St at 21st St]]>            </name>
+            <Point id="geom_119">
+                <coordinates>-122.421025,37.7567083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_122">
+            <name>
+<![CDATA[21st St at Mission St]]>            </name>
+            <Point id="geom_120">
+                <coordinates>-122.418674,37.757026,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_123">
+            <name>
+<![CDATA[Harrison St at 20th St]]>            </name>
+            <Point id="geom_121">
+                <coordinates>-122.412544,37.758862,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_124">
+            <name>
+<![CDATA[22nd St Caltrain Station]]>            </name>
+            <Point id="geom_122">
+                <coordinates>-122.3923469,37.7576271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_125">
+            <name>
+<![CDATA[Dolores St at 22nd St]]>            </name>
+            <Point id="geom_123">
+                <coordinates>-122.425649,37.754795,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_126">
+            <name>
+<![CDATA[24th St at Chattanooga St]]>            </name>
+            <Point id="geom_124">
+                <coordinates>-122.4266139,37.7518194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_127">
+            <name>
+<![CDATA[Valencia St at 22nd St]]>            </name>
+            <Point id="geom_125">
+                <coordinates>-122.4209752,37.7552126,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_128">
+            <name>
+<![CDATA[Valencia St at 24th St]]>            </name>
+            <Point id="geom_126">
+                <coordinates>-122.4206278,37.7524278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_129">
+            <name>
+<![CDATA[24th St Mission BART]]>            </name>
+            <Point id="geom_127">
+                <coordinates>-122.4188113,37.7521391,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_130">
+            <name>
+<![CDATA[23rd St at San Bruno Ave]]>            </name>
+            <Point id="geom_128">
+                <coordinates>-122.404213,37.754457,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_131">
+            <name>
+<![CDATA[Jersey St at Castro St]]>            </name>
+            <Point id="geom_129">
+                <coordinates>-122.4339496,37.750506,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_132">
+            <name>
+<![CDATA[Jersey St at Church St]]>            </name>
+            <Point id="geom_130">
+                <coordinates>-122.4274114,37.7509004,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_133">
+            <name>
+<![CDATA[Cesar Chavez St at Dolores St]]>            </name>
+            <Point id="geom_131">
+                <coordinates>-122.4249863,37.7478584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_134">
+            <name>
+<![CDATA[Valencia St at Cesar Chavez St]]>            </name>
+            <Point id="geom_132">
+                <coordinates>-122.4202187,37.7479981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_135">
+            <name>
+<![CDATA[Guerrero Park]]>            </name>
+            <Point id="geom_133">
+                <coordinates>-122.422022223,37.745666685,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_136">
+            <name>
+<![CDATA[Precita Park]]>            </name>
+            <Point id="geom_134">
+                <coordinates>-122.4114029,37.7472996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_137">
+            <name>
+<![CDATA[29th St at Church St]]>            </name>
+            <Point id="geom_135">
+                <coordinates>-122.4268059,37.7436839,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_138">
+            <name>
+<![CDATA[30th St at San Jose Ave]]>            </name>
+            <Point id="geom_136">
+                <coordinates>-122.4231805,37.7423139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_139">
+            <name>
+<![CDATA[29th St at Tiffany Ave]]>            </name>
+            <Point id="geom_137">
+                <coordinates>-122.4214722,37.7440667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_140">
+            <name>
+<![CDATA[Horton St at 40th St]]>            </name>
+            <Point id="geom_138">
+                <coordinates>-122.2876102,37.8297046,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_141">
+            <name>
+<![CDATA[Emeryville Town Hall]]>            </name>
+            <Point id="geom_139">
+                <coordinates>-122.2856333,37.8312752,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_142">
+            <name>
+<![CDATA[Adeline St at 40th St]]>            </name>
+            <Point id="geom_140">
+                <coordinates>-122.2782669,37.8312769,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_143">
+            <name>
+<![CDATA[53rd St at Hollis St]]>            </name>
+            <Point id="geom_141">
+                <coordinates>-122.2871801,37.8361823,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_144">
+            <name>
+<![CDATA[(47th St at San Pablo Ave)]]>            </name>
+            <Point id="geom_142">
+                <coordinates>-122.280779,37.8346666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_145">
+            <name>
+<![CDATA[(59th St at Horton St)]]>            </name>
+            <Point id="geom_143">
+                <coordinates>-122.2913604,37.8409452,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_146">
+            <name>
+<![CDATA[Doyle St at 59th St]]>            </name>
+            <Point id="geom_144">
+                <coordinates>-122.2880451,37.8419238,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_147">
+            <name>
+<![CDATA[Christie Ave at Shellmound St]]>            </name>
+            <Point id="geom_145">
+                <coordinates>-122.2931762,37.8372213,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_148">
+            <name>
+<![CDATA[Stanford Ave at Hollis St]]>            </name>
+            <Point id="geom_146">
+                <coordinates>-122.2886647,37.8384435,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_149">
+            <name>
+<![CDATA[65th St at Hollis St]]>            </name>
+            <Point id="geom_147">
+                <coordinates>-122.2913761,37.8467842,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_150">
+            <name>
+<![CDATA[Shattuck Ave at Telegraph Ave]]>            </name>
+            <Point id="geom_148">
+                <coordinates>-122.2634901,37.8332786,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_151">
+            <name>
+<![CDATA[24th St at Market St]]>            </name>
+            <Point id="geom_149">
+                <coordinates>-122.2782444,37.8160598,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_152">
+            <name>
+<![CDATA[West Oakland BART Station]]>            </name>
+            <Point id="geom_150">
+                <coordinates>-122.2948365,37.8053183,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_153">
+            <name>
+<![CDATA[Franklin St at 9th St]]>            </name>
+            <Point id="geom_151">
+                <coordinates>-122.2720799,37.8005161,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_154">
+            <name>
+<![CDATA[Lake Merritt BART Station]]>            </name>
+            <Point id="geom_152">
+                <coordinates>-122.2653199,37.7973195,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_155">
+            <name>
+<![CDATA[Isabella St at San Pablo Ave]]>            </name>
+            <Point id="geom_153">
+                <coordinates>-122.27484405,37.8149882304,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_156">
+            <name>
+<![CDATA[College Ave at Alcatraz Ave]]>            </name>
+            <Point id="geom_154">
+                <coordinates>-122.2525233,37.8513755,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_157">
+            <name>
+<![CDATA[College Ave at Harwood Ave]]>            </name>
+            <Point id="geom_155">
+                <coordinates>-122.2521599,37.848152,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_158">
+            <name>
+<![CDATA[65th St at Shattuck Ave]]>            </name>
+            <Point id="geom_156">
+                <coordinates>-122.2659034,37.8494707,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_159">
+            <name>
+<![CDATA[Bushrod Park]]>            </name>
+            <Point id="geom_157">
+                <coordinates>-122.2653043,37.8465156,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_160">
+            <name>
+<![CDATA[Telegraph Ave at 58th St]]>            </name>
+            <Point id="geom_158">
+                <coordinates>-122.261351,37.8444927,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_161">
+            <name>
+<![CDATA[Rockridge BART Station]]>            </name>
+            <Point id="geom_159">
+                <coordinates>-122.2518702,37.8450257,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_162">
+            <name>
+<![CDATA[College Ave at Taft Ave]]>            </name>
+            <Point id="geom_160">
+                <coordinates>-122.2515349,37.8417999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_163">
+            <name>
+<![CDATA[Shattuck Ave at 55th Ave]]>            </name>
+            <Point id="geom_161">
+                <coordinates>-122.2644881,37.8403643,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_164">
+            <name>
+<![CDATA[Shattuck Ave at 51st St]]>            </name>
+            <Point id="geom_162">
+                <coordinates>-122.2640037,37.8368013,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_165">
+            <name>
+<![CDATA[49th St at Telegraph Ave]]>            </name>
+            <Point id="geom_163">
+                <coordinates>-122.2623663,37.8359455,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_166">
+            <name>
+<![CDATA[MacArthur BART Station]]>            </name>
+            <Point id="geom_164">
+                <coordinates>-122.2662111,37.8291111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_167">
+            <name>
+<![CDATA[MacArthur Blvd at Telegraph Ave]]>            </name>
+            <Point id="geom_165">
+                <coordinates>-122.2651002,37.8262863,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_168">
+            <name>
+<![CDATA[Broadway at 30th St]]>            </name>
+            <Point id="geom_166">
+                <coordinates>-122.2619284,37.8193814,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_169">
+            <name>
+<![CDATA[Telegraph Ave at 27th St]]>            </name>
+            <Point id="geom_167">
+                <coordinates>-122.2678864,37.816073115,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_170">
+            <name>
+<![CDATA[Telegraph Ave at 23rd St]]>            </name>
+            <Point id="geom_168">
+                <coordinates>-122.2687726,37.8126783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_171">
+            <name>
+<![CDATA[Grand Ave at Webster St]]>            </name>
+            <Point id="geom_169">
+                <coordinates>-122.2651925,37.8113768,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_172">
+            <name>
+<![CDATA[19th Street BART Station]]>            </name>
+            <Point id="geom_170">
+                <coordinates>-122.2682473,37.8090126,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_173">
+            <name>
+<![CDATA[Telegraph Ave at 19th St]]>            </name>
+            <Point id="geom_171">
+                <coordinates>-122.2699271,37.8087021,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_174">
+            <name>
+<![CDATA[Franklin St at 14th St]]>            </name>
+            <Point id="geom_172">
+                <coordinates>-122.2699884,37.8037651,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_175">
+            <name>
+<![CDATA[Jackson St at 14th St]]>            </name>
+            <Point id="geom_173">
+                <coordinates>-122.2653676,37.8018575,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_176">
+            <name>
+<![CDATA[Lakeside Dr at 14th St]]>            </name>
+            <Point id="geom_174">
+                <coordinates>-122.2626418,37.8013189,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_177">
+            <name>
+<![CDATA[Jack London Square]]>            </name>
+            <Point id="geom_175">
+                <coordinates>-122.279425,37.7951506,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_178">
+            <name>
+<![CDATA[Dover St at 57th St]]>            </name>
+            <Point id="geom_176">
+                <coordinates>-122.267738,37.8426295,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_179">
+            <name>
+<![CDATA[Genoa St at 55th St]]>            </name>
+            <Point id="geom_177">
+                <coordinates>-122.2717561,37.8396488,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_180">
+            <name>
+<![CDATA[West St at 40th St]]>            </name>
+            <Point id="geom_178">
+                <coordinates>-122.2709501,37.8302232,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_181">
+            <name>
+<![CDATA[Market St at 40th St]]>            </name>
+            <Point id="geom_179">
+                <coordinates>-122.2739367,37.8305452,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_182">
+            <name>
+<![CDATA[37th St at West St]]>            </name>
+            <Point id="geom_180">
+                <coordinates>-122.2717955,37.8266962,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_183">
+            <name>
+<![CDATA[Grand Ave at Santa Clara Ave]]>            </name>
+            <Point id="geom_181">
+                <coordinates>-122.2472152,37.8127441,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_184">
+            <name>
+<![CDATA[Lakeshore Ave at Trestle Glen Rd]]>            </name>
+            <Point id="geom_182">
+                <coordinates>-122.2432677,37.8110807,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_185">
+            <name>
+<![CDATA[Bay Pl at Vernon St]]>            </name>
+            <Point id="geom_183">
+                <coordinates>-122.260778546,37.8123140914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_186">
+            <name>
+<![CDATA[Grand Ave at Perkins St]]>            </name>
+            <Point id="geom_184">
+                <coordinates>-122.25646019,37.808893934,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_187">
+            <name>
+<![CDATA[El Embarcadero at Grand Ave]]>            </name>
+            <Point id="geom_185">
+                <coordinates>-122.2496799,37.8088479,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_188">
+            <name>
+<![CDATA[Snow Park]]>            </name>
+            <Point id="geom_186">
+                <coordinates>-122.264496088,37.8078131822,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_189">
+            <name>
+<![CDATA[Webster St at 17th St]]>            </name>
+            <Point id="geom_187">
+                <coordinates>-122.2673076,37.80583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_190">
+            <name>
+<![CDATA[2nd Ave at E 18th St]]>            </name>
+            <Point id="geom_188">
+                <coordinates>-122.253810167,37.800213567,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_191">
+            <name>
+<![CDATA[10th St at Fallon St]]>            </name>
+            <Point id="geom_189">
+                <coordinates>-122.2629973,37.7976728,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_192">
+            <name>
+<![CDATA[Washington St at 8th St]]>            </name>
+            <Point id="geom_190">
+                <coordinates>-122.2748943,37.8007544,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_193">
+            <name>
+<![CDATA[Jack London Square Amtrak Station]]>            </name>
+            <Point id="geom_191">
+                <coordinates>-122.2717963,37.7939812,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_194">
+            <name>
+<![CDATA[55th St at Telegraph Ave]]>            </name>
+            <Point id="geom_192">
+                <coordinates>-122.2618225,37.8401858,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_195">
+            <name>
+<![CDATA[Shafter Ave at Cavour St]]>            </name>
+            <Point id="geom_193">
+                <coordinates>-122.2572427,37.8379469,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_196">
+            <name>
+<![CDATA[College Ave at Bryant Ave]]>            </name>
+            <Point id="geom_194">
+                <coordinates>-122.2512714,37.8381269,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_197">
+            <name>
+<![CDATA[Broadway at Coronado Ave]]>            </name>
+            <Point id="geom_195">
+                <coordinates>-122.2516207,37.8357883,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_198">
+            <name>
+<![CDATA[San Carlos at 4th St]]>            </name>
+            <Point id="geom_196">
+                <coordinates>-121.883912086,37.3328357797,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_199">
+            <name>
+<![CDATA[45th St at MLK Jr Way]]>            </name>
+            <Point id="geom_197">
+                <coordinates>-122.2674183,37.8335577,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_200">
+            <name>
+<![CDATA[45th St at Manila]]>            </name>
+            <Point id="geom_198">
+                <coordinates>-122.256224155,37.8332935222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_201">
+            <name>
+<![CDATA[Broadway at 40th St]]>            </name>
+            <Point id="geom_199">
+                <coordinates>-122.2567156,37.8277573,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_202">
+            <name>
+<![CDATA[Mosswood Park]]>            </name>
+            <Point id="geom_200">
+                <coordinates>-122.2604787,37.8249311,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_203">
+            <name>
+<![CDATA[32nd St at Adeline St]]>            </name>
+            <Point id="geom_201">
+                <coordinates>-122.2811926,37.8238474,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_204">
+            <name>
+<![CDATA[Market St at Brockhurst St]]>            </name>
+            <Point id="geom_202">
+                <coordinates>-122.2757325,37.8233214,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_205">
+            <name>
+<![CDATA[34th St at Telegraph Ave]]>            </name>
+            <Point id="geom_203">
+                <coordinates>-122.2663179,37.8225475,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_206">
+            <name>
+<![CDATA[San Pablo Ave at 27th St]]>            </name>
+            <Point id="geom_204">
+                <coordinates>-122.2756976,37.8178269,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_207">
+            <name>
+<![CDATA[27th St at MLK Jr Way]]>            </name>
+            <Point id="geom_205">
+                <coordinates>-122.2717615,37.8170154,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_208">
+            <name>
+<![CDATA[DeFremery Park]]>            </name>
+            <Point id="geom_206">
+                <coordinates>-122.2851712,37.8123315,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_209">
+            <name>
+<![CDATA[Marston Campbell Park]]>            </name>
+            <Point id="geom_207">
+                <coordinates>-122.2801923,37.8098236,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_210">
+            <name>
+<![CDATA[San Pablo Ave at MLK Jr Way]]>            </name>
+            <Point id="geom_208">
+                <coordinates>-122.2734217,37.8113514,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_211">
+            <name>
+<![CDATA[12th St at 6th Ave]]>            </name>
+            <Point id="geom_209">
+                <coordinates>-122.2538745,37.7943532,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_212">
+            <name>
+<![CDATA[10th Ave at E 15th St]]>            </name>
+            <Point id="geom_210">
+                <coordinates>-122.2487796,37.7927143,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_213">
+            <name>
+<![CDATA[San Antonio Park]]>            </name>
+            <Point id="geom_211">
+                <coordinates>-122.2425328,37.7900239,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_214">
+            <name>
+<![CDATA[21st Ave at International Blvd]]>            </name>
+            <Point id="geom_212">
+                <coordinates>-122.2389151,37.7851566,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_215">
+            <name>
+<![CDATA[23rd Ave at Foothill Blvd]]>            </name>
+            <Point id="geom_213">
+                <coordinates>-122.2343822,37.7851915,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_216">
+            <name>
+<![CDATA[26th Ave at International Blvd]]>            </name>
+            <Point id="geom_214">
+                <coordinates>-122.2329915,37.781123,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_217">
+            <name>
+<![CDATA[Foothill Blvd at Fruitvale Ave]]>            </name>
+            <Point id="geom_215">
+                <coordinates>-122.2226033,37.7837569,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_218">
+            <name>
+<![CDATA[Foothill Blvd at Harrington Ave]]>            </name>
+            <Point id="geom_216">
+                <coordinates>-122.2177284,37.77993,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_219">
+            <name>
+<![CDATA[Foothill Blvd at 42nd Ave]]>            </name>
+            <Point id="geom_217">
+                <coordinates>-122.2130372,37.7757452,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_220">
+            <name>
+<![CDATA[14th St at Mandela Pkwy]]>            </name>
+            <Point id="geom_218">
+                <coordinates>-122.2914153,37.8107432,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_221">
+            <name>
+<![CDATA[14th St at Filbert St]]>            </name>
+            <Point id="geom_219">
+                <coordinates>-122.28328228,37.8087498347,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_222">
+            <name>
+<![CDATA[MLK Jr Way at 14th St]]>            </name>
+            <Point id="geom_220">
+                <coordinates>-122.2760402,37.8061628,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_223">
+            <name>
+<![CDATA[12th St at 4th Ave]]>            </name>
+            <Point id="geom_221">
+                <coordinates>-122.2555549,37.7958125,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_224">
+            <name>
+<![CDATA[Fruitvale Ave at International Blvd]]>            </name>
+            <Point id="geom_222">
+                <coordinates>-122.225771,37.7776818,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_225">
+            <name>
+<![CDATA[Union St at 10th St]]>            </name>
+            <Point id="geom_223">
+                <coordinates>-122.2893702,37.8072393,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_226">
+            <name>
+<![CDATA[Market St at 8th St]]>            </name>
+            <Point id="geom_224">
+                <coordinates>-122.282497,37.8036865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_227">
+            <name>
+<![CDATA[Fruitvale BART Station]]>            </name>
+            <Point id="geom_225">
+                <coordinates>-122.2244982,37.7752321,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_228">
+            <name>
+<![CDATA[MLK Jr Way at University Ave]]>            </name>
+            <Point id="geom_226">
+                <coordinates>-122.2730677,37.8717192,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_229">
+            <name>
+<![CDATA[Bancroft Way at Telegraph Ave]]>            </name>
+            <Point id="geom_227">
+                <coordinates>-122.258764,37.8688126,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_230">
+            <name>
+<![CDATA[Haste St at Telegraph Ave]]>            </name>
+            <Point id="geom_228">
+                <coordinates>-122.2588044,37.8660431,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_231">
+            <name>
+<![CDATA[Ashby BART Station]]>            </name>
+            <Point id="geom_229">
+                <coordinates>-122.2702132,37.8524766,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_232">
+            <name>
+<![CDATA[Derby St at Milvia St]]>            </name>
+            <Point id="geom_230">
+                <coordinates>-122.2695914,37.8601126,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_233">
+            <name>
+<![CDATA[Bancroft Way at College Ave]]>            </name>
+            <Point id="geom_231">
+                <coordinates>-122.2543374,37.8693603,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_234">
+            <name>
+<![CDATA[Shattuck Ave at Hearst Ave]]>            </name>
+            <Point id="geom_232">
+                <coordinates>-122.2686176,37.8737917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_235">
+            <name>
+<![CDATA[Downtown Berkeley BART]]>            </name>
+            <Point id="geom_233">
+                <coordinates>-122.2677637,37.8703477,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_236">
+            <name>
+<![CDATA[Berkeley Civic Center]]>            </name>
+            <Point id="geom_234">
+                <coordinates>-122.270556,37.8690599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_237">
+            <name>
+<![CDATA[Fulton St at Bancroft Way]]>            </name>
+            <Point id="geom_235">
+                <coordinates>-122.2658964,37.8677892,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_238">
+            <name>
+<![CDATA[Telegraph Ave at Ashby Ave]]>            </name>
+            <Point id="geom_236">
+                <coordinates>-122.2597949,37.8559558,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_239">
+            <name>
+<![CDATA[Russell St at College Ave]]>            </name>
+            <Point id="geom_237">
+                <coordinates>-122.2532529,37.8584732,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_240">
+            <name>
+<![CDATA[North Berkeley BART Station]]>            </name>
+            <Point id="geom_238">
+                <coordinates>-122.283019,37.8740141,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_241">
+            <name>
+<![CDATA[California St at University Ave]]>            </name>
+            <Point id="geom_239">
+                <coordinates>-122.279720306,37.8705553291,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_242">
+            <name>
+<![CDATA[Channing Way at Shattuck Ave]]>            </name>
+            <Point id="geom_240">
+                <coordinates>-122.2674431,37.8658466,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_243">
+            <name>
+<![CDATA[Shattuck Ave at Prince St]]>            </name>
+            <Point id="geom_241">
+                <coordinates>-122.2662011,37.8530881,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_244">
+            <name>
+<![CDATA[Vine St at Shattuck Ave]]>            </name>
+            <Point id="geom_242">
+                <coordinates>-122.2697766,37.8802472,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_245">
+            <name>
+<![CDATA[Shattuck Ave at Lincoln St]]>            </name>
+            <Point id="geom_243">
+                <coordinates>-122.2690792,37.8775553,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_246">
+            <name>
+<![CDATA[Hearst Ave at Euclid Ave]]>            </name>
+            <Point id="geom_244">
+                <coordinates>-122.2599866,37.8751777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_247">
+            <name>
+<![CDATA[Fourth St at Delaware St]]>            </name>
+            <Point id="geom_245">
+                <coordinates>-122.3007749,37.8703175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_248">
+            <name>
+<![CDATA[University Ave at Oxford St]]>            </name>
+            <Point id="geom_246">
+                <coordinates>-122.2664467,37.8723555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_249">
+            <name>
+<![CDATA[Addison St at Fourth St]]>            </name>
+            <Point id="geom_247">
+                <coordinates>-122.2993708,37.866249,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_250">
+            <name>
+<![CDATA[Ninth St at University Ave]]>            </name>
+            <Point id="geom_248">
+                <coordinates>-122.2944892,37.8687655,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_251">
+            <name>
+<![CDATA[Addison St at San Pablo Ave]]>            </name>
+            <Point id="geom_249">
+                <coordinates>-122.291709,37.8681504,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_252">
+            <name>
+<![CDATA[Strawberry Creek Park]]>            </name>
+            <Point id="geom_250">
+                <coordinates>-122.2867926,37.8686565,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_253">
+            <name>
+<![CDATA[Channing Way at San Pablo Ave]]>            </name>
+            <Point id="geom_251">
+                <coordinates>-122.2902305,37.8628271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_254">
+            <name>
+<![CDATA[Channing Way at Sacramento St]]>            </name>
+            <Point id="geom_252">
+                <coordinates>-122.2807814,37.8641667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_255">
+            <name>
+<![CDATA[Ninth St at Parker St]]>            </name>
+            <Point id="geom_253">
+                <coordinates>-122.2912095,37.8588682,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_256">
+            <name>
+<![CDATA[Parker St at Fulton St]]>            </name>
+            <Point id="geom_254">
+                <coordinates>-122.2647911,37.8624644,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_257">
+            <name>
+<![CDATA[Derby St at College Ave]]>            </name>
+            <Point id="geom_255">
+                <coordinates>-122.2535687,37.8618037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_258">
+            <name>
+<![CDATA[Russell St at Deakin St]]>            </name>
+            <Point id="geom_256">
+                <coordinates>-122.2632347,37.8572238,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_259">
+            <name>
+<![CDATA[Telegraph Ave at Carleton St]]>            </name>
+            <Point id="geom_257">
+                <coordinates>-122.258801,37.8623199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_260">
+            <name>
+<![CDATA[Ninth St at Heinz Ave]]>            </name>
+            <Point id="geom_258">
+                <coordinates>-122.2894154,37.8534894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_261">
+            <name>
+<![CDATA[San Pablo Park]]>            </name>
+            <Point id="geom_259">
+                <coordinates>-122.2828873,37.854746,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_262">
+            <name>
+<![CDATA[66th St at Sacramento St]]>            </name>
+            <Point id="geom_260">
+                <coordinates>-122.2787701,37.8503843,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_263">
+            <name>
+<![CDATA[Prince St at Telegraph Ave]]>            </name>
+            <Point id="geom_261">
+                <coordinates>-122.260071,37.8538671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_264">
+            <name>
+<![CDATA[Oregon St at Adeline St]]>            </name>
+            <Point id="geom_262">
+                <coordinates>-122.2675583,37.8575672,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_265">
+            <name>
+<![CDATA[Julian St at 6th St]]>            </name>
+            <Point id="geom_263">
+                <coordinates>-121.8888891,37.3429973,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_266">
+            <name>
+<![CDATA[Julian St at The Alameda]]>            </name>
+            <Point id="geom_264">
+                <coordinates>-121.9125165,37.3322326,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_267">
+            <name>
+<![CDATA[Morrison Ave at Julian St]]>            </name>
+            <Point id="geom_265">
+                <coordinates>-121.9085859,37.3336577,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_268">
+            <name>
+<![CDATA[The Alameda at Bush St]]>            </name>
+            <Point id="geom_266">
+                <coordinates>-121.9048882,37.3319323,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_269">
+            <name>
+<![CDATA[Santa Clara St at 7th St]]>            </name>
+            <Point id="geom_267">
+                <coordinates>-121.8841054,37.3391456,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_270">
+            <name>
+<![CDATA[San Fernando at 7th St]]>            </name>
+            <Point id="geom_268">
+                <coordinates>-121.8830739,37.337246,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_271">
+            <name>
+<![CDATA[9th St at San Fernando]]>            </name>
+            <Point id="geom_269">
+                <coordinates>-121.8807965,37.3383952,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_272">
+            <name>
+<![CDATA[Market St at Park St]]>            </name>
+            <Point id="geom_270">
+                <coordinates>-121.890349388,37.3324263013,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_273">
+            <name>
+<![CDATA[San Fernando VTA Station]]>            </name>
+            <Point id="geom_271">
+                <coordinates>-121.8977018,37.3302641,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_274">
+            <name>
+<![CDATA[Yerba Buena Center for the Arts (Howard St at 3rd St)]]>            </name>
+            <Point id="geom_272">
+                <coordinates>-122.40044117,37.7849102407,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_275">
+            <name>
+<![CDATA[Webster St at O'Farrell St]]>            </name>
+            <Point id="geom_273">
+                <coordinates>-122.431157827,37.7835208353,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_276">
+            <name>
+<![CDATA[San Carlos St at 11th St]]>            </name>
+            <Point id="geom_274">
+                <coordinates>-121.8766132,37.3364659,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_277">
+            <name>
+<![CDATA[Almaden Blvd at Balbach St]]>            </name>
+            <Point id="geom_275">
+                <coordinates>-121.8892731,37.32673,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_278">
+            <name>
+<![CDATA[Mission St at 1st St]]>            </name>
+            <Point id="geom_276">
+                <coordinates>-121.9020161,37.3509643,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_279">
+            <name>
+<![CDATA[5th St at Taylor St]]>            </name>
+            <Point id="geom_277">
+                <coordinates>-121.8959209,37.3510173,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_280">
+            <name>
+<![CDATA[George St at 1st St]]>            </name>
+            <Point id="geom_278">
+                <coordinates>-121.899464,37.3477319,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_281">
+            <name>
+<![CDATA[Vendome St at Coleman Ave]]>            </name>
+            <Point id="geom_279">
+                <coordinates>-121.9031829,37.3413348,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_282">
+            <name>
+<![CDATA[Empire St at 1st St]]>            </name>
+            <Point id="geom_280">
+                <coordinates>-121.8969655,37.3448821,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_283">
+            <name>
+<![CDATA[Almaden Blvd at St John St]]>            </name>
+            <Point id="geom_281">
+                <coordinates>-121.8979205,37.3353879,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_284">
+            <name>
+<![CDATA[Pierce Ave at Market St]]>            </name>
+            <Point id="geom_282">
+                <coordinates>-121.884559,37.327581,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_285">
+            <name>
+<![CDATA[William St at 10th St]]>            </name>
+            <Point id="geom_283">
+                <coordinates>-121.8759263,37.3327938,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_286">
+            <name>
+<![CDATA[5th St at Virginia St]]>            </name>
+            <Point id="geom_284">
+                <coordinates>-121.87712,37.3259984,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_287">
+            <name>
+<![CDATA[Locust St at Grant St]]>            </name>
+            <Point id="geom_285">
+                <coordinates>-121.8879312,37.3229796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_288">
+            <name>
+<![CDATA[Biblioteca Latinoamericana Library (Oak St at 1st St)]]>            </name>
+            <Point id="geom_286">
+                <coordinates>-121.8804003,37.3226465,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_289">
+            <name>
+<![CDATA[Bestor Art Park]]>            </name>
+            <Point id="geom_287">
+                <coordinates>-121.8741186,37.3236779,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_290">
+            <name>
+<![CDATA[Palm St at Willow St]]>            </name>
+            <Point id="geom_288">
+                <coordinates>-121.884995,37.3172979,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_291">
+            <name>
+<![CDATA[Willow St at Vine St]]>            </name>
+            <Point id="geom_289">
+                <coordinates>-121.8831724,37.3184498,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_292">
+            <name>
+<![CDATA[Tamien Station]]>            </name>
+            <Point id="geom_290">
+                <coordinates>-121.8845148,37.3127659,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_293">
+            <name>
+<![CDATA[Jackson St at 5th St]]>            </name>
+            <Point id="geom_291">
+                <coordinates>-121.8945863,37.3488763,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_294">
+            <name>
+<![CDATA[Ryland Park]]>            </name>
+            <Point id="geom_292">
+                <coordinates>-121.895617,37.342725,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_295">
+            <name>
+<![CDATA[St James Park]]>            </name>
+            <Point id="geom_293">
+                <coordinates>-121.889937,37.339301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_296">
+            <name>
+<![CDATA[SAP Center]]>            </name>
+            <Point id="geom_294">
+                <coordinates>-121.900084,37.332692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_297">
+            <name>
+<![CDATA[San Pedro Square]]>            </name>
+            <Point id="geom_295">
+                <coordinates>-121.8940901,37.336802,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_298">
+            <name>
+<![CDATA[San Jose City Hall]]>            </name>
+            <Point id="geom_296">
+                <coordinates>-121.886995,37.337391,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_299">
+            <name>
+<![CDATA[San Fernando St at 4th St]]>            </name>
+            <Point id="geom_297">
+                <coordinates>-121.88566,37.335885,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_300">
+            <name>
+<![CDATA[Paseo De San Antonio at 2nd St]]>            </name>
+            <Point id="geom_298">
+                <coordinates>-121.886943,37.333798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_301">
+            <name>
+<![CDATA[San Jose Diridon Station]]>            </name>
+            <Point id="geom_299">
+                <coordinates>-121.901782,37.329732,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_302">
+            <name>
+<![CDATA[Almaden Blvd at San Fernando St]]>            </name>
+            <Point id="geom_300">
+                <coordinates>-121.8932,37.331415,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_303">
+            <name>
+<![CDATA[Santa Clara St at Almaden Blvd]]>            </name>
+            <Point id="geom_301">
+                <coordinates>-121.894902,37.333988,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_304">
+            <name>
+<![CDATA[Market St at 45th St]]>            </name>
+            <Point id="geom_302">
+                <coordinates>-122.272907495,37.8344313619,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_305">
+            <name>
+<![CDATA[San Salvador St at 1st St]]>            </name>
+            <Point id="geom_303">
+                <coordinates>-121.885831,37.330165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_306">
+            <name>
+<![CDATA[San Salvador St at 9th St]]>            </name>
+            <Point id="geom_304">
+                <coordinates>-121.877349,37.333955,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_307">
+            <name>
+<![CDATA[San Carlos St at Market St]]>            </name>
+            <Point id="geom_305">
+                <coordinates>-121.888979,37.330698,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_308">
+            <name>
+<![CDATA[5th at Folsom]]>            </name>
+            <Point id="geom_306">
+                <coordinates>-122.403070852,37.7801457035,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_309">
+            <name>
+<![CDATA[Broadway at Kearny]]>            </name>
+            <Point id="geom_307">
+                <coordinates>-122.405950427,37.798013644,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_310">
+            <name>
+<![CDATA[Union Square (Powell st at Post st)]]>            </name>
+            <Point id="geom_308">
+                <coordinates>-122.408530712,37.7882999782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_311">
+            <name>
+<![CDATA[5th St at San Salvador St]]>            </name>
+            <Point id="geom_309">
+                <coordinates>-121.881766319,37.332038681,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

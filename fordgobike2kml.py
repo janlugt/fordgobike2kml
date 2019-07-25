@@ -1,11 +1,12 @@
 import json
 import simplekml
-import urllib2
+import urllib3
 
-response = urllib2.urlopen('https://gbfs.fordgobike.com/gbfs/en/station_information.json')
-station_info = json.loads(response.read())['data']['stations']
-response = urllib2.urlopen('https://gbfs.fordgobike.com/gbfs/en/station_status.json')
-station_status = json.loads(response.read())['data']['stations']
+http = urllib3.PoolManager()
+response = http.request('GET', 'https://gbfs.fordgobike.com/gbfs/en/station_information.json')
+station_info = json.loads(response.data)['data']['stations']
+response = http.request('GET', 'https://gbfs.fordgobike.com/gbfs/en/station_status.json')
+station_status = json.loads(response.data)['data']['stations']
 
 installed_style = simplekml.Style()
 installed_style.iconstyle.icon.href = 'https://member.fordgobike.com/versions/1500489851/8dResources/eightdbike/images/maps/markers/in-service/marker_100.png'
